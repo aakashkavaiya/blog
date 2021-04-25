@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>My Blog</title>
-	<atom:link href="http://aakashkavaiya.github.io/blog/feed/" rel="self" type="application/rss+xml" />
-	<link>http://aakashkavaiya.github.io/blog</link>
-	<description>Just another WordPress site</description>
+	<title>Aakash Blog</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Personal Blog</description>
 	<lastBuildDate>Fri, 23 Apr 2021 09:57:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,18 +19,26 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/04/cropped-akash-avtar-32x32.png</url>
+	<title>Aakash Blog</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Earbuds અને Headphone ને દુનિયા બદલી જાણો રોચક માહિતી</title>
-		<link>http://aakashkavaiya.github.io/blog/9-2/</link>
-					<comments>http://aakashkavaiya.github.io/blog/9-2/#respond</comments>
+		<link>/9-2/</link>
+					<comments>/9-2/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 23 Apr 2021 09:56:38 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://aakashkavaiya.github.io/blog/?p=9</guid>
+		<guid isPermaLink="false">/?p=9</guid>
 
-					<description><![CDATA[<p>વોકમેન જેણે વાપર્યું હશે એને ખ્યાલ હશે કે, હેડન સપોર્ટ ન કરતા હોય અને પીન બરોબર ફ્ટિ ન થઈ હોય તો કોઈ મોટા ઓડિટિરયમમાં કંઈક વાગતું હોય એવો અહેસાસ થાય. કંપનીના વૉકમેન ડિવાઈસને સપોર્ટ કરતા હેડફેન કે ઈયરબડતો જાણે આસપાસની દુનિયામાંથી સાઉન્ડ આવી રહ્યા હોય એવી ફલિંગ્સઆવે. આ જ વસ્તુ અત્યારે મોબાઈલમાં રહેલી એક એપમાંથી મળે છે. વસ્તુ એ જ છે મેથળ અને ટેકનોલોજી બદલી છે. સાઉન્ડ ઈક્ટના શોખીન હેડફેન હોય કે મોબાઈલ એમાં પણ પોતાને ગમતું ઈક્વિલાઈઝર કસ્ટમાઈઝ કરે છે. ન વધુ પડતું વાસ કે ન વધુ પડતી ઈકો ફેક્ટ. એકદમ મેલોડિયસ જે ટોનમાં કોઈ પણ ગીત વાગે તો…</p>
-<p>The post <a rel="nofollow" href="http://aakashkavaiya.github.io/blog/9-2/">Earbuds અને Headphone ને દુનિયા બદલી જાણો રોચક માહિતી</a> appeared first on <a rel="nofollow" href="http://aakashkavaiya.github.io/blog">My Blog</a>.</p>
+					<description><![CDATA[<p>વોકમેન જેણે વાપર્યું હશે એને ખ્યાલ હશે કે, હેડન સપોર્ટ ન કરતા હોય અને પીન બરોબર ફ્ટિ ન થઈ હોય તો કોઈ મોટા ઓડિટિરયમમાં કંઈક વાગતું હોય એવો અહેસાસ થાય. કંપનીના વૉકમેન ડિવાઈસને સપોર્ટ કરતા હેડફેન કે ઈયરબડતો જાણે આસપાસની દુનિયામાંથી સાઉન્ડ આવી રહ્યા હોય એવી ફલિંગ્સઆવે. આ જ વસ્તુ અત્યારે મોબાઈલમાં રહેલી એક એપમાંથી ... <a title="Earbuds અને Headphone ને દુનિયા બદલી જાણો રોચક માહિતી" class="read-more" href="/9-2/" aria-label="More on Earbuds અને Headphone ને દુનિયા બદલી જાણો રોચક માહિતી">Read more</a></p>
+<p>The post <a rel="nofollow" href="/9-2/">Earbuds અને Headphone ને દુનિયા બદલી જાણો રોચક માહિતી</a> appeared first on <a rel="nofollow" href="">Aakash Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-image"><figure class="aligncenter"><a href="https://www.blogger.com/blog/post/edit/2519922918662795114/8494577467975295525#"><img src="https://1.bp.blogspot.com/-uj7ffGsuhDM/X9jvb3sOMpI/AAAAAAAAS9s/7qNspkBCEicNu-_HvzQdF5O0nUEwUxhYwCLcBGAsYHQ/w640-h428/001.jpg" alt=""/></a></figure></div>
@@ -90,10 +98,10 @@
 
 
 <ul><li>સૌથી મોટો ફાયદો એ થશે કે હવે ઘોંઘાટ ઘટશે.</li><li>સ્પીકરમાં લૂટુથ આવતા બીજા ડિવાઈસની જરૂરિયાત ઘટશે</li><li>જે દિવ્યાંગ છે એના માટે સ્માર્ટફોનમાં મર્જ થયેલી ઈન ડિપ્લે ટેકનોલોજી</li><li>મ્યુઝિયમ, એક્ઝિબિશન, ઓટો પ્રોપર્ટી કે ટેક શૉ વખતે દરેકને જુદા જુદા ફીચર્સ સમજાવવા નહીં પડે.</li><li>આ ટેકનોલોજી સાઉન્ડ બેન્ક કે સાઉન્ડ સેડ ડિવાઈસ સાથે કામ કરે છે.</li><li>વ્યક્તિ એનું વોલ્યુમ અને ઈફેક્ટ સેટ કરી શકે છે.</li></ul>
-<p>The post <a rel="nofollow" href="http://aakashkavaiya.github.io/blog/9-2/">Earbuds અને Headphone ને દુનિયા બદલી જાણો રોચક માહિતી</a> appeared first on <a rel="nofollow" href="http://aakashkavaiya.github.io/blog">My Blog</a>.</p>
+<p>The post <a rel="nofollow" href="/9-2/">Earbuds અને Headphone ને દુનિયા બદલી જાણો રોચક માહિતી</a> appeared first on <a rel="nofollow" href="">Aakash Blog</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://aakashkavaiya.github.io/blog/9-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/9-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
